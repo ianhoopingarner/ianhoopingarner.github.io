@@ -5,7 +5,7 @@ author: Ian Hoopingarner
 date:   2017-08-31
 category: financiers
 keywords: Flint
-abstract: Solar investors get a construction loan
+abstract: 
 ---
 What seems like a long time ago but was really February of last year, during the Flint water crisis, I wrote a comment — on a blog I managed to convince my academic administrator to accept as a term paper — mentioning that where reporters investigations and academic research concurred was that the people of Flint were not alone. Amid the panic and uncertainty about the future, a bracing fact that accompanied the tragedy was that the people of Flint became connected to the many and various people in Michigan, the nation, and beyond that are witnessing the privatization of what is more than a resource, but is quite literally the component of life. 
 Since, the corporate tendencies of government, unchecked administrative power, have swung even further to the American political right-wing, where control has been consolidated by an monied minority of commercial and financial brokers. Bloomberg, the news site, had an article about Wilber Ross that heralded the onset of “billionaire rule”. There is still some opposition in Congress speaking out against the growing monopolization — Ro Khanna is, to his credit. Monopoly consolidation is markedly prevalent in the “new” internet economy — the one that caused so much “end of history” jubilee in the 90’s before the growth of Facebook, Google, Amazon, Apple, and Microsoft out of the primordial soup of the early Internet. 

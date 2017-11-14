@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  MSU likely to continue with solar power longer than 25-year agreement
+title:  Looking into the Venezuala fracas
 author: Ian Hoopingarner
 date:   2017-08-01
 category: fossil politics
 keywords: venezuela and bonds
-abstract:
 ---
 
 Social media is filled with video and clickbait-y news about Venezuela, including now [this video](https://www.facebook.com/NowThisNews/videos/1544090949014357/) among others, but despite the hype the situation may be different than appears.  Though Venezuela has done disagreeable things like blocking Twitter and a Colombian television station, more are in favor of the government of President Nicolas Maduro than are protesting against it.  Some opposition protestors have faced police violence but the filming of the encounters for media purposes has reportedly been done in a misleading way.   An American documentarian remembers an armed opposition group saying “Don’t film what we do," only “film what they do to us.”  
