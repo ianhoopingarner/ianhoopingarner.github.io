@@ -16,9 +16,9 @@
 title: L'Ami du peuple
 email: ianhoopingarner@gmail.com
 description: >
-  Public political journal
+  Journal of politics and the public
 tagline: vitam impendere vero
-location: Earth
+location: Lansing, Michigan, USA, planet Earth
 date: true
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ianhoopingarner.github.io" # the base hostname & protocol for your site, e.g. http://example.com
