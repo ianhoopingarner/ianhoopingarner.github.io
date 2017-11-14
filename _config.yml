@@ -13,33 +13,33 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Shalyn Guthery
-email: skittely@gmail.com
+title: L'Ami du peuple
+email: ianhoopingarner@gmail.com
 description: >
-  Personal musings of Shalyn Guthery
-tagline: Data Scientist
-location: Des Moines, Iowa
+  Public political journal
+tagline: vitam impendere vero
+location: Earth
 date: true
-baseurl: "/home" # the subpath of your site, e.g. /blog
-url: "http://sguthery.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-author: Shalyn Guthery
-google_analytics: 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://ianhoopingarner.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+author: Ian Hoopingarner
+google_analytics:
 
 # SEO
 twitter:
-  username: 
+  username:
 
 logo: /assets/logo.png
 
 lang: en
 
 facebook:
- app_id: 
+ app_id:
 
 social:
-  name: Shalyn Guthery
+  name: Ian Hoopingarner
   links:
-    - https://twitter.com/jdatap
+    - https://twitter.com/ianhoopingarner
     - https://www.linkedin.com/in/johncoene
     - https://plus.google.com/109009224717674019651
     - https://github.com/JohnCoene
