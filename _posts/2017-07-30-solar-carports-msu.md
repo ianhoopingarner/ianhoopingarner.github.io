@@ -7,7 +7,7 @@ category: financiers
 keywords: Solar and energy grid
 abstract: originally written for eastlansinginfo.org as "Solar Carports Generate Energy for MSU and Taxes for East Lansing"
 ---
-Construction is underway at Michigan State University’s Lot 89, near the Farm Lane and Mount Hope Road intersection, on the first module of a ten-megawatt solar array project that will eventually cover four other parking lots on MSU’s campus with solar roofs. Combined, these solar carports will generate about 15,000 Mwh (megawatthours) of energy yearly, which will be sold directly to the university at a fixed rate for 25 years. </p>
+Construction is underway at Michigan State University’s Lot 89, near the Farm Lane and Mount Hope Road intersection, on the first module of a ten-megawatt solar array project that will eventually cover four other parking lots on MSU’s campus with solar roofs. Combined, these solar carports will generate about 15,000 Mwh (megawatthours) of energy yearly, which will be sold directly to the university at a fixed rate for 25 years. 
 
 <p class="intro">The limited liability company that owns the panels, Spartan PV1, will also pay some personal property taxes to the City of East Lansing, as private companies located on university land are not exempt from this tax liability. </p>
 
