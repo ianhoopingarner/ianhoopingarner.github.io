@@ -5,9 +5,9 @@ author: Ian Hoopingarner
 date:   2017-08-24
 category: financiers
 keywords: Iceland
-abstract: Solar investors get a construction loan
+abstract: The solar project's investors recently got a construction loan.  But who are they?  
 ---
-The two investors in Spartan PV1 have <a href="https://renewablesnow.com/news/alterra-power-secures-financing-for-11-mw-us-solar-plant-578966/">secured a loan</a> from an Indiana-based bank to finance project construction. 
+The two investors in Spartan PV1 have <a href="https://renewablesnow.com/news/alterra-power-secures-financing-for-11-mw-us-solar-plant-578966/">secured a loan</a> from an Indiana-based bank to finance project construction.
 
 <p class="intro">Alterra Power Corp. is the principal investor in Spartan PV1, the corporation building an 11MW solar array across several MSU parking lots.  Alterra holds a majority interest of "at least" 85% in Spartan PV1.  The rest of the shares are owned by Inovateus Solar LLC.</p>
 
