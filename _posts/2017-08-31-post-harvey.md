@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  The weather is political now?
+title:  The post-Harvey political weather
 author: Ian Hoopingarner
 date:   2017-08-31
 category: climate change
 keywords: Hurricane harvey
 ---
 
-Hurricane Harvey had a strange effect on the news.  Suddenly the tone has shifted to a bland sort of acknowledgement that climate change is real, combined with a strong belief of dubious truth -- that *this* and only this, preferably on network TV -- is what climate change will be like -- we understand it all!
+Hurricane Harvey had a strange effect on the news.  Suddenly the tone has shifted to a bland sort of acknowledgement that climate change is real, combined with a strong 
+belief of dubious truth -- that *this* and only this, preferably on network TV -- is what climate change will be like -- we understand it all!
 
 * CNN has decided that [now][cnn] is when watchers of television and readers of their website should know what climate change looks like -- it looks exactly like Harvey, they say.  -- but sarcasm aside it also appears that the concept of stronger storms as a consequence of global warming has now entered the frame of the Overton window.  
 * How strong was the storm?  MLive postulates that if all the water that fell there fell into the Great Lakes, the entire lake system would rise by [eleven and a half feet][mlive].
