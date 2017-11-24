@@ -13,8 +13,8 @@ Since, the corporate tendencies of government, unchecked administrative power, h
 As with the rest of the economy, a lot of it is being deregulated or not regulated. That online shopping has expanded to such an extent that there are requests of delivery for almost any item shows of the waste produced by this commercial practice. The supply chain of global business and trade is a major emitter of fossil fuels. Aside from adjustments in the course of doing business, adjusting to the price of fuel and so forth, it is scarcely evident that the shipping industry has given long term consideration towards its various effluents emitted. 
 
 
-#### Flint is part of a wider struggle for water rights
-##### 2016-02-03
+**Flint is part of a wider struggle for water rights**
+*2016-02-03*
 Kari Lyderson at TelesurTV.net has a great piece on the Flint water crisis that everyone should read. She very persuasively argues that Flint is but one puzzle piece in a wider struggle over water rights in the state of Michigan. Here’s an especially cogent section:
 >…residents and watchdogs are still trying to figure out the full story behind the maneuvers, and many think that privatizing Flint’s water system was the ultimate goal.
 >The multi-national French water company Veolia was hired by the emergency manager and paid $900 an hour to analyze Flint’s water system last year, for a total of almost $40,000. Global Exchange describes Veolia as the “largest water privatization business in the world.”  In Detroit, Veolia was also hired to evaluate the water system, at the same time a new regional water authority was created that many saw as priming the pump for privatization.
